@@ -58,7 +58,7 @@ What is highest number of figs you can get to Capertown?
 
 Question: A surgeon named Hal and a bus driver named Al are both in love with the same woman named Paige. Al needs to go for a long trip of 10 days. Before he left he gave Paige 10 apples. Why?
 
-- ** ANSWEAR **
+- **ANSWEAR**
 - An apple a day keeps the doctor away
 
 
